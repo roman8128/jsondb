@@ -2,6 +2,7 @@ package com.jsondb.service;
 
 import com.jsondb.domain.User;
 import com.jsondb.repository.UserRepository;
+import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -11,10 +12,10 @@ public class UserService {
     private UserRepository userRepository;
 
     public UserService(UserRepository userRepository) {
-        userRepository = userRepository;
+        this.userRepository = userRepository;
     }
 
-    public User save(User user) {
+    public User saveUser(User user) {
         return userRepository.save(user);
     }
 
@@ -22,9 +23,9 @@ public class UserService {
         return userRepository.findAll();
     }
 
-    public Iterable<User> list(List<User> users) {
-        userRepository.saveAll(users);
-        return null;
+    @Transactional
+    public Iterable<User> save(List<User> users) {
+        return userRepository.saveAll(users);
     }
 }
 

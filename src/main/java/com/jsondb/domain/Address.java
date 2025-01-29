@@ -18,5 +18,4 @@ public class Address {
 
     @Embedded
     private Geo geo;
-
 }

@@ -1,5 +1,6 @@
 package com.jsondb.domain;
 
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,6 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@Table(name = "`user`")
 public class User {
 
     @Id
@@ -24,5 +26,4 @@ public class User {
     private Address address;
     @Embedded
     private Company company;
-
 }
