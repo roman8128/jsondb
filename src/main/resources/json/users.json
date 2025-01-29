@@ -19,7 +19,7 @@
     "company": {
       "name": "Müller Consulting",
       "catchPhrase": "Innovative Swiss solutions",
-      "bs": "empower digital transformation"
+      "business": "Consulting services focused on digital transformation and innovation in Switzerland."
     }
   },
   {
@@ -42,7 +42,7 @@
     "company": {
       "name": "Schneider Technologies",
       "catchPhrase": "Cutting-edge software development",
-      "bs": "pioneering artificial intelligence"
+      "business": "Software development focused on AI, cloud computing, and digital transformation solutions."
     }
   },
   {
@@ -65,7 +65,7 @@
     "company": {
       "name": "Weber Consulting",
       "catchPhrase": "Reliable and secure IT services",
-      "bs": "deliver top-tier IT strategies"
+      "business": "Providing IT consulting services, including system integration, cloud solutions, and enterprise software."
     }
   },
   {
@@ -88,7 +88,7 @@
     "company": {
       "name": "Fischer Finance",
       "catchPhrase": "Financial solutions for the future",
-      "bs": "optimize investment strategies"
+      "business": "Fintech company offering investment management, wealth advisory, and blockchain solutions."
     }
   },
   {
@@ -111,7 +111,7 @@
     "company": {
       "name": "Baumann Consulting",
       "catchPhrase": "Consulting for digital growth",
-      "bs": "transform business with technology"
+      "business": "Consulting services focusing on digital transformation, business strategy, and IT solutions."
     }
   },
   {
@@ -134,7 +134,7 @@
     "company": {
       "name": "Steiner Technologies",
       "catchPhrase": "Innovative technology solutions",
-      "bs": "deliver cutting-edge IT infrastructure"
+      "business": "Offering IT infrastructure solutions, cloud-based services, and technology consulting."
     }
   },
   {
@@ -157,7 +157,7 @@
     "company": {
       "name": "Keller Partners",
       "catchPhrase": "Creative digital marketing solutions",
-      "bs": "grow your online presence"
+      "business": "Marketing agency specializing in digital marketing, SEO, and online branding for businesses."
     }
   },
   {
@@ -180,7 +180,7 @@
     "company": {
       "name": "Vogt Consulting",
       "catchPhrase": "Driving sustainable change",
-      "bs": "lead business transformation"
+      "business": "Consulting firm focused on sustainable business practices, strategic planning, and innovation."
     }
   },
   {
@@ -203,7 +203,7 @@
     "company": {
       "name": "Moser Technologies",
       "catchPhrase": "Innovative data solutions",
-      "bs": "transform business operations with data"
+      "business": "Offering data analytics services, business intelligence solutions, and AI-powered systems."
     }
   },
   {
@@ -226,7 +226,7 @@
     "company": {
       "name": "Schmid Ventures",
       "catchPhrase": "Venturing into the future",
-      "bs": "empower startups with Swiss innovation"
+      "business": "Venture capital firm investing in innovative Swiss startups and supporting business growth."
     }
   }
 ]
