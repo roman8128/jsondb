@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Lena Müller",
+    "username": "Hans",
+    "email": "Lena@swissmail.ch",
+    "address": {
+      "street": "Bahnhofstrasse",
+      "suite": "Apt. 210",
+      "city": "Zurich",
+      "zipcode": "8001",
+      "geo": {
+        "lat": "47.3769",
+        "lng": "8.5417"
+      }
+    },
+    "phone": "+41 44 123 45 67",
+    "website": "swissconnect.ch",
+    "company": {
+      "name": "Müller Consulting",
+      "catchPhrase": "Innovative Swiss solutions",
+      "bs": "empower digital transformation"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Felix Schneider",
+    "username": "Maximilian",
+    "email": "Felix@techhub.ch",
+    "address": {
+      "street": "Seefeldstrasse",
+      "suite": "Suite 35",
+      "city": "Geneva",
+      "zipcode": "1202",
+      "geo": {
+        "lat": "46.2044",
+        "lng": "6.1432"
+      }
+    },
+    "phone": "+41 22 567 89 01",
+    "website": "swissinnovation.ch",
+    "company": {
+      "name": "Schneider Technologies",
+      "catchPhrase": "Cutting-edge software development",
+      "bs": "pioneering artificial intelligence"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sophie Weber",
+    "username": "Julia",
+    "email": "Sophie@webersolutions.ch",
+    "address": {
+      "street": "Limmatquai",
+      "suite": "Suite 408",
+      "city": "Zurich",
+      "zipcode": "8002",
+      "geo": {
+        "lat": "47.3787",
+        "lng": "8.5419"
+      }
+    },
+    "phone": "+41 44 234 56 78",
+    "website": "webersolutions.ch",
+    "company": {
+      "name": "Weber Consulting",
+      "catchPhrase": "Reliable and secure IT services",
+      "bs": "deliver top-tier IT strategies"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Clara Fischer",
+    "username": "Klara",
+    "email": "Clara@fintech.ch",
+    "address": {
+      "street": "Aeschenplatz",
+      "suite": "Apt. 22",
+      "city": "Basel",
+      "zipcode": "4052",
+      "geo": {
+        "lat": "47.5596",
+        "lng": "7.5886"
+      }
+    },
+    "phone": "+41 61 333 44 55",
+    "website": "fintechbasel.ch",
+    "company": {
+      "name": "Fischer Finance",
+      "catchPhrase": "Financial solutions for the future",
+      "bs": "optimize investment strategies"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Johann Baumann",
+    "username": "Paul",
+    "email": "Johann@baumann.ch",
+    "address": {
+      "street": "Churerstrasse",
+      "suite": "Apt. 15",
+      "city": "St. Gallen",
+      "zipcode": "9000",
+      "geo": {
+        "lat": "47.4233",
+        "lng": "9.3794"
+      }
+    },
+    "phone": "+41 71 123 45 67",
+    "website": "baumannconsulting.ch",
+    "company": {
+      "name": "Baumann Consulting",
+      "catchPhrase": "Consulting for digital growth",
+      "bs": "transform business with technology"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tobias Steiner",
+    "username": "Stefano",
+    "email": "Tobias@steinertech.ch",
+    "address": {
+      "street": "Grünaustrasse",
+      "suite": "Suite 112",
+      "city": "Lucerne",
+      "zipcode": "6003",
+      "geo": {
+        "lat": "47.0502",
+        "lng": "8.3085"
+      }
+    },
+    "phone": "+41 41 456 78 90",
+    "website": "steinertech.ch",
+    "company": {
+      "name": "Steiner Technologies",
+      "catchPhrase": "Innovative technology solutions",
+      "bs": "deliver cutting-edge IT infrastructure"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Anna Keller",
+    "username": "Emilia",
+    "email": "Anna@kellerpartners.ch",
+    "address": {
+      "street": "Schweizerstrasse",
+      "suite": "Apt. 305",
+      "city": "Zurich",
+      "zipcode": "8004",
+      "geo": {
+        "lat": "47.3745",
+        "lng": "8.5276"
+      }
+    },
+    "phone": "+41 44 657 89 02",
+    "website": "kellerpartners.ch",
+    "company": {
+      "name": "Keller Partners",
+      "catchPhrase": "Creative digital marketing solutions",
+      "bs": "grow your online presence"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Leonard Vogt",
+    "username": "Luca",
+    "email": "Leonard@vogtconsulting.ch",
+    "address": {
+      "street": "Bärenplatz",
+      "suite": "Suite 627",
+      "city": "Bern",
+      "zipcode": "3011",
+      "geo": {
+        "lat": "46.9481",
+        "lng": "7.4474"
+      }
+    },
+    "phone": "+41 31 708 90 12",
+    "website": "vogtconsulting.ch",
+    "company": {
+      "name": "Vogt Consulting",
+      "catchPhrase": "Driving sustainable change",
+      "bs": "lead business transformation"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Sandro Moser",
+    "username": "Martin",
+    "email": "Sandro@moser-tech.ch",
+    "address": {
+      "street": "Sihlquai",
+      "suite": "Suite 509",
+      "city": "Zurich",
+      "zipcode": "8005",
+      "geo": {
+        "lat": "47.3791",
+        "lng": "8.5372"
+      }
+    },
+    "phone": "+41 44 898 32 76",
+    "website": "moser-tech.ch",
+    "company": {
+      "name": "Moser Technologies",
+      "catchPhrase": "Innovative data solutions",
+      "bs": "transform business operations with data"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Elena Schmid",
+    "username": "Verena",
+    "email": "Elena@schmidventures.ch",
+    "address": {
+      "street": "Kreuzstrasse",
+      "suite": "Apt. 512",
+      "city": "Zurich",
+      "zipcode": "8006",
+      "geo": {
+        "lat": "47.3950",
+        "lng": "8.5191"
+      }
+    },
+    "phone": "+41 44 678 45 99",
+    "website": "schmidventures.ch",
+    "company": {
+      "name": "Schmid Ventures",
+      "catchPhrase": "Venturing into the future",
+      "bs": "empower startups with Swiss innovation"
+    }
+  }
+]
